@@ -10,7 +10,7 @@ except ImportError:
 
 from gelfclient import __version__
 setup(
-    name = "gelfclient",
+    name = "larrabee-gelfclient",
     version = __version__,
     author = "Chris McClymont",
     author_email = "chris@mcclymont.it",
